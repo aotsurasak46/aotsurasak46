@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I’m studying in Computer Engineering at KMITL and passionate in mobile development.
+I’m studying in Computer Engineering at KMITL and passionate in Software development and Machine learning.
 
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [aotsurasak46@gmail.com](mailto:aotsurasak46@gmail.com)
