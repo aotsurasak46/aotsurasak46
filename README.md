@@ -7,7 +7,7 @@ Computer Engineering Student
 I’m studying in Computer Engineering at KMITL and passionate in Software development and Machine learning.
 
 *   🌍  I'm based in Thailand
-*   ✉️  You can contact me at [aotsurasak46@gmail.com](mailto:aotsurasak46@gmail.com)
+*   ✉️  You can contact me at [surasak.t46@gmail.com](mailto:surasak.t46@gmail.com)
 
   
 ### Skills 
