@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Surasak Tansudjaroenying
 ================================================================================================================================================
 
-Computer Engineering Student
+Full Stack Developer
 ----------------------------
 
-I’m studying in Computer Engineering at KMITL and passionate in Software development and Machine learning.
+Computer Engineering graduate from KMITL, currently working as a Fullstack Developer.
 
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [surasak.t46@gmail.com](mailto:surasak.t46@gmail.com)
